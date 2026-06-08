@@ -1,0 +1,503 @@
+/* Custom Styles for Employability Profile */
+
+/* Smooth scrolling behavior */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Prose styling enhancements */
+.prose p {
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.prose p:first-child {
+    font-size: 1.1rem;
+}
+
+/* ===== CAROUSEL LOG LAYOUT ===== */
+
+.carousel-container {
+    position: relative;
+    min-height: calc(100vh - 64px);
+    overflow: hidden;
+    background: #ffffff;
+}
+
+.carousel-wrapper {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    height: 100%;
+}
+
+.carousel-slide {
+    min-width: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.log-card {
+    max-width: 900px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    background: linear-gradient(135deg, #ffffff 0%, #f9fafb 100%);
+    border-radius: 1rem;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+}
+
+.log-card::-webkit-scrollbar {
+    width: 6px;
+}
+
+.log-card::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.log-card::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 3px;
+}
+
+.log-card::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+.log-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #111827;
+    margin-bottom: 0.5rem;
+    font-family: 'Courier New', monospace;
+    letter-spacing: -0.5px;
+}
+
+.log-date {
+    font-size: 0.875rem;
+    color: #9ca3af;
+    font-weight: 600;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.log-content {
+    flex: 1;
+    margin-bottom: 2rem;
+    overflow-y: auto;
+}
+
+.log-text {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #374151;
+    margin-bottom: 1.5rem;
+    text-align: justify;
+}
+
+.log-image-container {
+    margin-top: 2rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    background-color: #f3f4f6;
+    min-height: 300px;
+    max-height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.log-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    cursor: pointer;
+}
+
+/* Carousel Navigation Controls */
+.carousel-control {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 48px;
+    height: 48px;
+    background: rgba(20, 184, 166, 0.9);
+    border: none;
+    border-radius: 50%;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+}
+
+.carousel-control:hover {
+    background: #0d9488;
+}
+
+.carousel-control-prev {
+    left: 2rem;
+}
+
+.carousel-control-next {
+    right: 2rem;
+}
+
+/* Carousel Indicator */
+.carousel-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 0.75rem 1.5rem;
+    border-radius: 2rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    z-index: 10;
+}
+
+/* Navigation Tab Button Styles - Desktop */
+.log-nav-btn {
+    padding: 0.5rem 1rem;
+    background: #f3f4f6;
+    border: 2px solid transparent;
+    border-radius: 0.5rem;
+    color: #4b5563;
+    font-weight: 500;
+    font-size: 0.875rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.log-nav-btn:hover {
+    background: #e5e7eb;
+    color: #14b8a6;
+}
+
+.log-nav-btn.active {
+    background: #14b8a6;
+    color: white;
+    border-color: #0d9488;
+}
+
+/* Navigation Tab Button Styles - Mobile */
+.log-nav-btn-mobile {
+    padding: 0.4rem 0;
+    background: #f3f4f6;
+    border: 2px solid transparent;
+    border-radius: 0.375rem;
+    color: #4b5563;
+    font-weight: 600;
+    font-size: 0.75rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    aspect-ratio: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.log-nav-btn-mobile:hover {
+    background: #e5e7eb;
+    color: #14b8a6;
+}
+
+.log-nav-btn-mobile.active {
+    background: #14b8a6;
+    color: white;
+    border-color: #0d9488;
+}
+
+/* ===== RESPONSIVE BEHAVIOR ===== */
+
+@media (max-width: 1024px) {
+    .carousel-slide {
+        padding: 1rem;
+    }
+
+    .log-card {
+        padding: 2rem;
+    }
+
+    .log-title {
+        font-size: 1.5rem;
+    }
+
+    .carousel-control {
+        width: 40px;
+        height: 40px;
+    }
+
+    .carousel-control-prev {
+        left: 1rem;
+    }
+
+    .carousel-control-next {
+        right: 1rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .carousel-slide {
+        padding: 0.5rem;
+    }
+
+    .log-card {
+        padding: 1.5rem;
+        border-radius: 0.5rem;
+    }
+
+    .log-title {
+        font-size: 1.25rem;
+    }
+
+    .log-text {
+        font-size: 0.95rem;
+    }
+
+    .log-image-container {
+        min-height: 250px;
+        max-height: 300px;
+    }
+
+    .carousel-control {
+        width: 36px;
+        height: 36px;
+        padding: 0.5rem;
+    }
+
+    .carousel-control-prev {
+        left: 0.5rem;
+    }
+
+    .carousel-control-next {
+        right: 0.5rem;
+    }
+
+    .carousel-indicator {
+        font-size: 0.75rem;
+        padding: 0.5rem 1rem;
+        bottom: 1rem;
+    }
+}
+
+/* ===== EXISTING STYLES (MAINTAINED) ===== */
+
+/* Event card animations */
+.event-card {
+    animation: fadeInUp 0.6s ease-out forwards;
+    opacity: 0;
+}
+
+.event-card:nth-child(1) { animation-delay: 0.1s; }
+.event-card:nth-child(2) { animation-delay: 0.2s; }
+.event-card:nth-child(3) { animation-delay: 0.3s; }
+.event-card:nth-child(n+4) { animation-delay: 0.4s; }
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Image gallery hover effect */
+.event-image {
+    transition: transform 0.3s ease;
+}
+
+.event-images:hover .event-image {
+    transform: scale(1.05);
+}
+
+/* Lightbox styling */
+#lightbox-modal {
+    animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+#lightbox-modal img {
+    animation: slideUp 0.3s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Button hover effects */
+button {
+    transition: all 0.2s ease;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
+
+/* Typography improvements */
+h1, h2, h3 {
+    letter-spacing: -0.5px;
+}
+
+/* Responsive text sizing */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 2.5rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+}
+
+/* Print styles */
+@media print {
+    nav {
+        display: none;
+    }
+
+    #lightbox-modal {
+        display: none;
+    }
+
+    .logs-sidebar {
+        display: none;
+    }
+
+    .logs-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Accessibility - Focus states */
+a:focus-visible,
+button:focus-visible {
+    outline: 2px solid #14b8a6;
+    outline-offset: 2px;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #cbd5e1;
+    border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #94a3b8;
+}
+
+/* ===== IMAGE CAROUSEL FOR LOG CARDS ===== */
+
+.log-image-gallery {
+    position: relative;
+    background: #2d3748;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+    padding: 1rem;
+}
+
+.log-image-gallery .log-image {
+    max-width: 100%;
+    max-height: 600px;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    display: block;
+    transition: opacity 0.3s ease;
+}
+
+.log-image-gallery .log-image.hidden {
+    display: none;
+}
+
+.image-nav-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    z-index: 10;
+}
+
+.image-nav-btn:hover:not(:disabled) {
+    background: rgba(0, 0, 0, 0.7);
+    transform: translateY(-50%) scale(1.1);
+}
+
+.image-nav-btn:disabled {
+    background: rgba(0, 0, 0, 0.2);
+    cursor: not-allowed;
+    opacity: 0.4;
+}
+
+.image-nav-btn.prev {
+    left: 1rem;
+}
+
+.image-nav-btn.next {
+    right: 1rem;
+}
+
+.image-counter {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.375rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    z-index: 10;
+}
