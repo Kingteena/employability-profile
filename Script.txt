@@ -1,0 +1,155 @@
+1. AMF volunteering - March 2026
+As a recent converted fan of motorsport, I was very excited to volunteer for the Adelaide Motorsport Festival (AMF). As an AMF volunteer I met people from all walks of life, from people who were fresh from school, straight from the boy scouts, to people pursuing an MBA, to people who were once homeless and now work as a security guard, to a retired mechanic who worked on F2 cars when the grand prix was held in Adelaide! It was very exciting and fulfilling to talk with people who came from backgrounds that were extremely different from mine, and each and every single person taught me something with the life they had. 
+During the event, I was in a public facing role, where I was constantly communicating between race control, the drivers that needed to come into the paddocks, the drivers going out, all while ensuring that bystanders were safely off the roads while the cars came through. It was quite demanding as it was an extremely rainy day, and several events were cancelled or rescheduled, meaning the schedule we were given was inaccurate. This made our role extremely important and emphasised the need for communication. 
+This event taught me a lot about how important the role of volunteers are during a sporting event, and the level of coordination needed behind the scenes, which I will definitely be thinking about every time I watch another Grand Prix on TV.
+
+
+
+2. ASLSA Awrudu Celebrations
+
+The Adelaide Sri Lankan Student Association (ASLSA) hosted their Annual Sinhala and Tamil New Year celebrations, culturally known as Awurudu, over the mid semester break. I was the president of ASLSA last year, and this was the first event that was organised by the new executive committee. It was also my first event post-presidency, where I was no longer in charge, but instead played an advisory role. It felt a bit surreal not having to run around ensuring events was running smoothly, and instead having to give pointers to the current president. It was very interesting to see the new committee struggle, sometimes in places i had struggled in last year (which were quickly resolved from my experience), and sometimes in brand new ways that I had not considered. While this event taught me a lot about what leadership changes in a committee might look like, I was also able to celebrate my culture by indulging in Sri Lankan Sweets and participating in traditional games far away from home, and even introduce them to friends who are not from Sri Lanka.
+
+3. VIvCourt Trading - Employers on Campus
+
+The employers on campus were a series of events before the Careers expo where employers were given the opportunity to conduct a small seminar introducing themselves, who would be a good fit and what they look for. Vivcourt trading was one such employer
+High-Frequency trading firms are known for being one of the most generous employers when considering the benefits offered towards graduates. Typically this comes with the trade off of being in a hyper-competitive, cutthroat environment. However, Vivcourt Trading is very different, as they are employee owned and a significant portion of their profits are donated to social causes and charity.
+During the lecture, I got to know about how it was founded, as well as how human it felt, and as the company is rather small and has no as large of an operating cost as other firms, seem to genuinely place less emphasis on profit, and more about people and the community. Unfortunately, I also learned that they do not offer roles to international students, which disappointed me. It reminded me that not all opportunities would be available to me as a graduate, and that I would need to structure my career strategy to align with my visa restrictions. However, If i manage to secure full working rights in Australia, VivCourt is definitely a company I would consider joining.
+
+4. SAiGENCI Annual Public Lecture
+
+Following my recent interest in Bioinformatics and Computational Biology, I was interested to learn more about research on cancer. I was thrilled when i found out that the lead oncology research organisation in South Australia, SAiGENCI, was conducting a lecture organised for the general public at the Adelaide University City East campus. In the lecture, I learnt about what SAiGENCI does and what their research looks like, and a little bit about how cancer works and why it is so hard to cure. We then learnt about some of the cutting-edge research that is currently happening at the labs, from tracking lipid changes to find early signs of cancer, to using AI models to help doctors "forecast" cancer. It was quite intresting to see that some of the research they were doing, particularly with using changes in lipids as an early cancer screen, focused on using exisiting data in the Walter Reed Military Hospital's Biobank. Data analysis is something that is constantly used in my degree, as well as using AI algorithms to sift through massive amounts of data. As such, I left the lecture feeling inspired and with a dream that one day, I would be at a similar lecture presenting my own research.
+
+
+6. Making the most out of the careers fair
+While preparing for the Careers Fair at Adelaide University, the CareerHub launched a series of events, including this one about how to prepare yourself to make the best use of the careers fair. We were taught on how to make a shortlist of employers, what to search up on before meeting them and what kind of questions you could ask the employers when meeting them at their stalls. I also learnt etiquette at stalls, and how to use your time with an employer wisely. I learnt a lot about "good questions" to ask employers. Instead of asking for information that could be found on a website ("When do applications open" or "Do you offer internships?"), try and ask questions that would offer more insights into working there ("What does a day working there look like?" and "What kind of projects/training do new hires get"). This opportunity did help me make the best use of my time and the time of the employers I met at the fair so I was glad I attended this session
+
+
+6. The big meet
+During the Career Fair at Adelaide University, I had the pleasure of meeting many employers on campus, and heard about many opportunities in fields which were not directly related to my degree but still allowed me to apply my computer science knowledge in a meaningful manner. So when I heard about the opportunity to meet more employers and gain more connections and insights at the Big Meet, I took that opportunity with open arms
+During the big meet, I was able to inquire about opportunities with multiple employers. Using the skills I had learnt in preparation for the careers fair, I was able to gain further insights into what a "strong candidate" from my field would look like, and how I could better prepare myself to enter the workforce. I assumed that all opportunities offered by the government was for Australian and Permanent Residents or Citizens, and was surprised to learn that even though I was a International student, there were public sector roles like in the department of infrastructure and finance that I could apply for. I also learnt about opportunities in the Northern Territory related to mining that I could be a part of, as well as opportunities I could apply for if and when I get a PR. I left the expo with a lot of insights on how to prepare myself on how to enter the workforce and where to apply to when I graduate.
+
+
+7. UNIHACK - Hackathon
+A hackathon is an experience that a strong applicant for a computer science role might typically talk about. The pressure of designing, building, deploying and testing a viable product in a tight timeframe is immense, and teaches lessons about making sound business plan software desgin. UNIHACK, funded by the European Union and open to all Australian and New Zealand University students, was no exception
+UNIHACK, like most hackathons, had us create a piece of software and publish a testable version, as well as pitch it, within 48 hours. Unlike most hackthons, it did not have a specific theme, but instead had several awards, such as "Best Use of Agentic AI", or "Social Impact". I entered the competition with 3 of my friends, and opted to go for the "First-timers" and "Most fun" awards by building a game. Unfortunately, many of us had commitments on day 1, and we realistically only had 24 hours to build this game, which dramatically increased the difficulty of the challenge.
+It was a lot of work building a game, and a lot of bugs had to be fixed, but each person leaned heavily into their strengths to produce it. I am quite proud to say that every single thing in the game, from the graphics to the code to even the audio, was made by the team in the span of 24 hours. It was quite difficult, and having to navigate between  the need to sleep and the adrenaline rush of adding new features before the deadline was physically and mentally taxing, but I came out of it proud of the creation we had made. 
+
+
+8. Kaurna Day
+As an international student from a country with a history of being colonised, not just once ,but three times, I understood the importance of celebrating traditional owners of a land and preserving their culture and traditions. During this event, I learnt a lot about the language and culture of the original custodians of the land we studied on. It was quite interesting to note differences and similarities between traditions of my home country with traditions from Kaurna people. I also got to eat food prepared from native plants and meat, and was able to talk to some vendors who were selling key tags and paintings that were painted with a traditional Kaurna artsyle.
+During the event, I met some researchers from Black Ochre Data Labs (BODL) who were working on a genomics project concerning type 2 diabetes and the Aboriginal Population. The type of research they were working on, genomics, was the exact type of research I was interested in perusing with post-graduate research. When I shared this interest and my experience working on an introductory project in the field via a summer research scholarship, they invited me to their office to come talk the team with a possibility of  
+
+
+9. Meeting Stevie
+Following the conversation I had with researchers from Black Ochre Data Labs (BODL) on Kaurna day, I was invited to meet some of the researchers in person at the office to discuss potential projects I could be involved in. While I had a considered using my computer science background in a biological context previously, this was the first time I was shown that there was a genuine career opportunity doing research that helped people while still utilising the skills and solving problems similar to what I learnt and enjoyed during my studies. 
+While at the office, I had the pleasure of meeting Stevie Pedersen, Head of the transcriptomics layer of the PROPHECY project at BODL. They explained to me that the PROPHECY project was investigating the cause of increased risk of Type 2 diabetes in Aboriginal populations, and went over technical details about how and what the project aims to accomplish. It was exciting to see them passionately convey the core problem the project is trying to solve (current healthcare research being euro-centric and sometimes inapplicable to Aboriginal people) project's vision of personalised medicine, where every individual could walk into a clinic and be diagnosed based on their individual risks in their genome, instead of being modeled as an average in a population.
+I was able to learn a lot from this meeting, and because of the interest and initiative I showed, I was offered an honours project and a possible internship.
+
+10. Jane Street Dinner
+Jane Street is a High-Frequency Trading firm based in Hong Kong. It is famously known among undergraduates as one of the highest-paying employers that hire students from Australia, and when I was given this opportunity to network with them over free food and games, I took it with open arms. 
+
+As it was only a few hours after the Careers Expo at Adelaide Uni, I had already met some of the Jane Street employees that attended the event, but this event gave me the opportunity to spend more time with them, and ask them some deeper questions. Personal favourites are "What made you choose Jane street over other companies", "What was the most memorable resume/project you've seen and why?" and "What makes a software engineer a good software Engineer". The less formal atmosphere compared to the careers fair earlier, plus the larger timeframe and smaller number of other attendees helped me have deep and long conversations with employees and have all my questions answered
+
+A clear difference between the careers fair and this event however, was the opportunity to network with like minded Computer Science students from all year levels. Many of them were very interesting, and we bonded over working together on logic puzzles that were set by Jane Street. I made connect with them on LinkedIn, expanding my network with not just recruiters but fellow peers too.
+
+11. volunteering expo
+The International Student's Volunteering expo was held by StudyAdelaide at Adelaide Oval to honour national volunteers week. My only experience volunteering in Australia was in Motorsport events, and I wanted to find an event or cause I could contribute to a cause that could not just entertain people, but also uplift or support them via other means. 
+Here I met a variety of charities and organisations that were looking for volunteers. The city of Adelaide had a low-commitment opportunity to plant and maintain trees in its parklands, which intrigued me. I also met members from the Australian Red Cross. This excited me as one of my most memorable volunteering experiences came from volunteering at the Sri Lankan Red Cross to package medicine and food rations to areas that were most heavily impacted by the devastating flood that struck late 2025. Knowing that I had helped people in need get the resources they needed was a rewarding experience, and I was excited at the opportunity to help more people in a different continent. I was given more information about emergency relief, and was also told about the youth group for red cross, which was a new initiative they had just started. I look forward to volunteering my time towards helping other people and connecting with like minded peers via the opportunties that were presented to me during this expo.
+
+
+12. IDAHOBIT Celebrations - International Day Against Homophobia, Biphobia, Intersex Discrimination, and Transphobia.  
+Hosted by Adelaide University on all campuses, I was able to learn a lot more about pride and deepen my understanding about queer culture, and the discrimination queer people face. As an international student from a country where homosexuality was only recently decriminalised, it was very refreshing to see people openly expressing themselves and educating anyone who wanted to learn more. During this event, I was able to connect with the wonderful representatives from the Thorne Harbour foundation, who gave me a lot of information on the various forms of aid the organisation provides to disadvantaged members of the community. They also told me how to engage with the queer community as an individual, and invited me to volunteering opportunities within Thorne Harbor. I left the event with information, contacts, opportunities for volunteering and lots of pins, and merch for myself and to give my queer friends. 
+
+
+13. April 14th - Prosperity 
+Prosperity 4 was the fourth iteration of an annual Trading competition organised by IMC. As I was engaging with several trading companies, I was wanted to gain insight into what the life of a trader is like, and build these skills in case I wanted to pursue trading. This competition was marketed as a "learn-as-you-go" competition, where teams could come into it as absolute beginners and learn by trial and error. 
+My team and I had some experience with marketing making, having attended the Jane Street Electronic Trading Challenge last year. However, I was not prepared for the amount of new information I would have to learn. The challenge was structured into 2 qualifier rounds and 3 final rounds. The qualifier rounds were relatively straightforward with our prior experience, and we were given ample time (3 days) for each round. However, the last few rounds only lasted 48 hours per round, and required us to learn about Options trading and concepts such as the Black-Scholes model to effectively make a competitive trading algorithm. Coming from a pure STEM background, learning about these complex economic theories and implementing them into code a short timeframe was an arduous task. 
+Overall, we learnt how to digest unfamiliar domain knowledge and implement it into optimised code, giving us a realistic appreciation of the fast-paced, theory-heavy nature of profitable algorithmic trading.
+
+14. MITx - Introduction to Biology - ongoing
+Following my newfound interest in biotechnology, I realised that there was a lot of biology information I did not understand. Speaking to researchers at BODL (see previous logs) made me realise how much terminology went over my head, and that high school Biology would not be enough to carry me through this field. To make up for it, I enrolled in MITx's Introduction to biology, which allows you to follow along a real course taught at MIT for free. 
+
+This has been quite challenging, because I have tried and failed to follow along an introductory biology cause before; I could not get myself to engage with it because it relied on dry, route memorisation. However, this new course has shifted my learning experience because the lecturer frames by showing us how these theories are built by taking us through its history, presenting the problem and the data and having us come up with the theories like a puzzle. 
+
+Despite it being engaging, It has been tough balancing it with university work. Spending my weekends and evenings learning, and I have about half the course to complete, but as I have no exams, I aim to complete the course before the semester ends and the course is archived on June 20th. It has shown me that I have the discipline to learn a completely different concept while busy when motivated by a meaningful end goal
+
+---
+1. 10X Genomics
+2. SaiGenCi Public lectuer
+3. Intro to bio
+
+
+# 1.1 Current Employability
+
+Looking forward, I want to improve myself to make myself more "complete". I have identified my strengths and weaknesses, and have realised that to be an ideal candidate, I have to work on my weaknesses until they became one of my strengths. There are two key areas I want to work on this semester; One of these key areas is conveying technical information and working in a team, also known as interpersonal or "soft" skills. The other key area I want to work on is finding what sector I would like to work in and increase my technical skills to fit this are better. To make sure I will achieve these goals, I have chosen opportunities that align with them with the hopes of improving my employability by the end of the semester.
+
+Interviews for a job posting typically consist of behavioural interviews and technical interviews, designed to test your soft skills and technical skills respectively. Coming into this semester, I believe I have done a lot of work improving my technical skills. I have a high GPA (6.89/7.0) to demonstrate my academic abilities and through workshops like *Ravi's Study Program* and *LeetCode*, I have practiced coding and demonstrating my technical skills. However, I feel like there was still plenty of room for improvement for my soft skills. This meant that over the course of the semester, I want to push myself to talk to more people, build professional relationships and learn how to convey my technical skills in a more non-technical manner: talking to people. Hence, I will prioritise events that improve my Cultural Intelligence, made me work in a team to solve a problem and/or network with like-minded peers. Through these events, I aim to improve my soft skills and feel like like my skillset was "complete".
+
+Even though I aim to improve my skills, I am not sure what career I am improving myself for. I was always keen on doing something "meaningful" with my work, something that required me to solve unique and complex problems, while still having impact. A typical software engineering job at a tech firm is not the profession I could see myself pursuing for the rest of my life. This is important to me because I believe that I am my best work comes when I am motivated and love what I do. If I find a "dream job" that I could see myself in for the rest of my life, I could gain skills that would be tailored to that role, and set myself up for success. As such, I want to spend some time finding out what opportunities were available for me and assessing my fit in these roles. I aim to go to networking events, jobs fairs and in general, search for opportunities that can help me realise what my "dream job" is. 
+
+In this manner, I aim to go to specific events such as networking events, job expos, and cultural events to specifically grow the two key areas I needed to grow in: social skills and figuring out my dream job so I could grow specialised technical skills. By the end of this semester, I would grow my employability efficiently and enjoyably.  
+
+
+
+
+
+
+
+
+PROSPERITY
+
+
+
+
+
+
+# POST Employability
+
+Reflecting on my journey throughout Semester 1 2026, the definition of what makes me truly "employable" has completely transformed. At the start of this semester, I wanted to improve myself in two major ways: improve my interpersonal skills by pushing myself to network and find opportunities, and to find what my "dream job" is so I could work towards it. I expected to do this by going to networking events for software engineers, and hopefully find a way to not end up working at a standard desk job at another "AI B2B SAAS" company. As the semester reaches its conclusion, I have realized that while the events that transpired were not according to plan, I was successful in achieving both of these goals.
+
+True professionalism, as I have discovered, requires navigating unpredictable human dynamics, overcoming systemic barriers like international student visa restrictions, and aligning my technical capabilities with a deeper sense of societal purpose. To evaluate how my approach to my future career has evolved, I have dissected this continuous journey using the STAR L/P framework. These connected moments represent how stepping away from my comfort zone completely re-engineered my professional identity.
+
+
+##  1. Kaurna Day
+---
+
+### Situation / Task 
+I attended Kaurna day with no intention of finding a career opportunity there, and simply to learn more about cultures. I wanted to engage with the community, learn more about traditional art and dance, and respect the history of the land we study on.  However, when I was perusing through the stalls filled with art, music and culture, I noticed a stall filled with soft toys of DNA molecules. I was taken aback by the contrast between this somewhat scientific stall and the ones filled with culture around it, and decided to approach the people at the stall to ask more about it. 
+The people at the stall introduced themselves as members of Black Ochre Data Labs (BODL), a member of the Australian Alliance for Indigenous Genomics (ALIGN). They explained that they work with the Aboriginal Population, and perform genomic analysis to identify certain risks that Aboriginal people are more prone to, and cures that would suit their bodies more. 
+
+### Action
+During this discussion, I was able to truly connect with these members and bond with them in a humorous yet professional manner. While they explained their project, I was able to relate some parts of it to my summer research project about cancer evolution, where I worked to simulate single cell RNA data. Despite my background of pure computer science, I decided to pitch my project and what I did, in the hopes of finding any opportunities that might be available with them. I was able to communicate about how I quickly learnt biology concepts and was able to effectively combine it with my computer science knowledge for my previous project. I also conveyed my passion for using my skills to help people. 
+
+### Result
+To my surprise, I was met with a lot of support. They were impressed by my work and liked my enthusiasm, and were willing to find opportunities for me. Lisa told me about two other people I should contact, one of them being Stevie Pederson, and invited me to come visit them at their office the following week to talk to them about it in detail. She said that I seemed very personable and would be a great culture fit at BODL. I was overjoyed to hear this; not only was I able to successfully build a network and create connections, but I seemed to have excelled at it, building a genuine human connection and being seen as a possible culture fit. Moreover, I was also able to take another step towards finding my "dream job" by talking to research heads at their office! I was grateful for this opportunity to reach closer to both my goals at the same time. 
+
+
+### Lesson / Planning
+This situation taught me that an opportunity can strike you at any time, even in events which seemingly have nothing to do with your profession, and you just have to take it with open arms. I decided that in the future, I should not be scared to take opportunities, and try regardless. I also learnt how powerful building a genuine human connection could be, and where it can take you; This opportunity might have changed the trajectory of my life, and it would not have happened if I did not genuinely connect with them before pitching myself. It completely transformed my understanding of networking, proving that breaking past the clinical, crowded barriers of standard corporate career fairs through raw, human interaction is often the most effective professional tool available.
+
+
+## 2. Meeting the BODL Team 
+
+### Situation / Task 
+Following up from Kaurna day, I had scheduled a meeting with Stevie Pederson and the BODL team to talk about the projects they were working on and how I could be involved in it. When I met them and the team at the BODL office, I was told about the main project they had in mind for me - PROPHECY. This required processing immense amounts of data concerning type 2 diabetes in Aboriginal populations. The sheer amount of biology keywords and concepts that were thrown around intimidated me, but I had to pitch my side of the story to convince them that I should be involved 
+
+### Action
+I made a firm case for how I could be involved, showcasing how I could link my computer science background to handle complex pipelines, and display my shared passion for helping others by utilising my skills. I emphasised my experience and interest in research, and demonstrate my ability to pick up domain knowledge and apply it as shown in my summer research project and trading competitions. When questioned about concepts from Biology I did not know about, or when they explained something I did not have the biology knowledge to understand, I was able to humbly state that I did not know it. 
+### Result
+
+They agreed that I could be a good fit for BODL, and were keen to have me on board. They offered a honours project, and mapped out a pathway for me to be involved, with a possible PhD project afterwards. While I was not immediately offered an internship as they did not take unpaid interns, they were keen to have me on board as soon as possible, and I was given a description of the projects I would be working on if funding could be secured. 
+
+They appreciated me being humble enough to admit I did not know a lot of biology, and assured me that I could pick it right before and during the project. I was invited to a seminar called "RAdelaide" that Stevie was conducting about how to use R to process data, and I agreed to level up my skills before starting the project.
+
+ While I had a reassurance that I will gain biology knowledge during my projects, it was already difficult to have an introductory conversation with the team about the work they do because of this gap in my knowledge. As such, I made effort to enrol in MITx: Introduction to Biology (See activity 14), a move that signalled my initiative to the BODL team and strengthen their resolve to get me involved in their projects. 
+
+### Lesson / Planning
+This completely removed the career uncertainty I had at the start of the semester. It made me realise a passion I have had for helping people, and helped me see a future where my skills are used towards personalised medicine and uplifting healthcare in disadvantaged communities instead of driving profits as a software engineer. Talking to the team and seeing a day in their life allowed me to put myself in their shoes, assess the culture and help me understand my future
+
+The teams reaction to me enrolling in the MITx course showed me how important understanding your technical gaps are. Sometimes, to overcome your weaknesses, you need to fix them independently through external professional development resources. Doing so requires a lot of discipline and initiative, which is a great signal for your potential employers.
+
+It also reshaped my mindset regarding my career strategy as an international student; by pivoting into highly specialised, niche public health research like bioinformatics, I can align my skills with spaces that evaluate candidates based on unique analytical passion rather than corporate tech visa quotas, giving me a much clearer, more sustainable roadmap for my future in Australia.
+
+## Conclusion
+---
+Looking back, my professional growth is undeniable. While I did go to traditional, rigid networking events to grow my interpersonal skills, I found out that the best way to grow and utilise my soft skills was by engaging directly with community, cultural events through raw, human connections. By building these connections, I was able to learn more about my passions and skills, enabling me to achieve both my goals efficiently and enjoyably. I am wrapping up this semester not just as an advanced computer science student with a high GPA, but as an adaptable, communicative, and focused professional who has clearly defined his dream job and possesses the lifelong learning skills necessary to achieve it.
